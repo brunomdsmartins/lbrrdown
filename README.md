@@ -1,6 +1,6 @@
 # LbbrDown (LibraryDown)
 
-R's {PkgDownd}, but for Python.
+R's {PkgDown}, but for Python.
 
 Run it with
 
